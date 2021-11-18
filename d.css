@@ -5,9 +5,11 @@
 .d5,
 .d6 {
     color: aliceblue;
-    text-align: center;
     font-size: 200%;
-    border: 0.06em white solid;
+    border: 1px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .d1 {
