@@ -4,34 +4,34 @@
 .d4,
 .d5,
 .d6 {
-    color: aliceblue;
-    font-size: 200%;
-    border: 1px white solid;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  color: aliceblue;
+  font-size: 200%;
+  border: 1px white solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .d1 {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 
 .d2 {
-    background-color: rgb(255, 255, 165);
+  background-color: rgb(255, 255, 165);
 }
 
 .d3 {
-    background-color: rgb(88, 255, 255);
+  background-color: rgb(88, 255, 255);
 }
 
 .d4 {
-    background-color: rgba(248, 212, 248, 0.932)
+  background-color: rgba(248, 212, 248, 0.932)
 }
 
 .d5 {
-    background-color: rgb(196, 247, 195);
+  background-color: rgb(196, 247, 195);
 }
 
 .d6 {
-    background-color: rgb(247, 190, 105);
+  background-color: rgb(247, 190, 105);
 }
